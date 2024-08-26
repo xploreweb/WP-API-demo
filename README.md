@@ -3,7 +3,8 @@ Rakendusserverite alused<br>
 Kodutöö asub aadressil: https://apidemo.fisheye.ee/
 
 ## Päringute ja postituste tegemine Thunder Clienti kasutades
-Teostan päringuid Thunder Clienti kasutades. Enne postituste tegemiseks vaja luua Json sisu:
+Teostan päringuid Thunder Clienti kasutades. <br>
+Enne postituste tegemiseks vaja luua Json sisu:
 ![image](https://github.com/user-attachments/assets/47051f5c-b4fb-42ff-abb2-f5289b875c2b)
 
 Thunder Client'ga postituse loomine:
